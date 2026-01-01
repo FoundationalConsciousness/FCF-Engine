@@ -15,8 +15,9 @@ zombies\" --- highly sophisticated, but hollow.
 We believe that the next leap in AI will not come from merely scaling
 parameters, but from **architectural intentionality**.
 
-This repository is a bridge between **Pure Ontology** (The Consciousness
-Theory) and **Applied Engineering**. We are building a framework where
+This repository is a bridge between **Pure Ontology**
+(https://github.com/FoundationalConsciousness/Foundational-Consciousness-Framework-FCF) 
+and **Applied Engineering**. We are building a framework where
 \"consciousness\" is not a mystical property, but a functional
 requirement for advanced agency.
 
